@@ -1,0 +1,73 @@
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\bin\Debug\QLNS.exe.config
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\bin\Debug\QLNS.exe
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.Login.formDangNhap.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.Login.NhanVien.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.DanhSachNghiViec.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formDanhSachNhanVien.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formBaoHiemXaHoi.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formHopDongNhanVien.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.ThemHopDong.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formThemNhanVien.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.formNhanSu.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.PhongBan.DSNhanVienPhongBan.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.PhongBan.formPhongBan.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.formQLNS.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.TinhLuong.ChildForm.ChamCong.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.TinhLuong.formTinhLuong.resources
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.exe
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\obj\Debug\QLNS.pdb
+C:\Users\admin\Desktop\HUIT\Công nghệ .NET\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\.NET\QLNS\QLNS\bin\Debug\QLNS.exe.config
+D:\.NET\QLNS\QLNS\bin\Debug\QLNS.exe
+D:\.NET\QLNS\QLNS\bin\Debug\QLNS.pdb
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.Login.formDangNhap.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.Login.NhanVien.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.DanhSachNghiViec.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formDanhSachNhanVien.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formBaoHiemXaHoi.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formHopDongNhanVien.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.ThemHopDong.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formThemNhanVien.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.NhanSu.formNhanSu.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.PhongBan.DSNhanVienPhongBan.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.PhongBan.formPhongBan.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.formQLNS.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.TinhLuong.ChildForm.ChamCong.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.TinhLuong.formTinhLuong.resources
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.exe
+D:\.NET\QLNS\QLNS\obj\Debug\QLNS.pdb
+D:\QLNS_update1\QLNS\bin\Debug\QLNS.exe.config
+D:\QLNS_update1\QLNS\bin\Debug\QLNS.exe
+D:\QLNS_update1\QLNS\bin\Debug\QLNS.pdb
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.Login.formDangNhap.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.Login.NhanVien.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.DanhSachNghiViec.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formDanhSachNhanVien.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formBaoHiemXaHoi.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formHopDongNhanVien.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.ThemHopDong.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.NhanSu.ChildForm.formThemNhanVien.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.NhanSu.formNhanSu.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.PhongBan.DSNhanVienPhongBan.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.PhongBan.formPhongBan.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.formQLNS.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.Properties.Resources.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.TinhLuong.ChildForm.ChamCong.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.TinhLuong.formTinhLuong.resources
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.exe
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.pdb
+D:\QLNS_update1\QLNS\bin\Debug\QLNS.exe.manifest
+D:\QLNS_update1\QLNS\bin\Debug\QLNS.application
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.exe.manifest
+D:\QLNS_update1\QLNS\obj\Debug\QLNS.application
